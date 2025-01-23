@@ -1,3 +1,0 @@
-[submodule "base-rpc"]
-	path = base-rpc
-	url = https://github.com/IroniumStudios/base-rpc
